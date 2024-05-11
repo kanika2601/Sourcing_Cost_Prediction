@@ -24,17 +24,6 @@ The project includes various graphs and visualizations to analyze the data and m
 - Sunburst Graph of Area Code and Sourcing Channel
 
 
-## Sample Plots
-
-
-
-
-## Installation and Usage
-
-To use this project, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the main script to preprocess the data, train the models, and generate visualizations.
 
 ## Requirements 
 JupyterNotebook and anaconda enviroment
