@@ -30,5 +30,7 @@ JupyterNotebook and anaconda enviroment
 Python libraries : numpy , pandas , seaborn ,matplotlib , xgboost
 
 
-## Conclusion
+## Conclusion On the Results
+
+Based on the evaluation metrics obtained, the Random Forest Regression model outperforms the other models used in this project, including Linear Regression, Gradient Boosting Regression, and XGBoost Regression. With an R-squared (R^2) score of 0.938, the Random Forest model demonstrates the highest level of explained variance in predicting the sourcing cost for the given month. Additionally, it exhibits lower Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Mean Absolute Error (MAE) compared to the other models, indicating better overall performance in terms of accuracy and precision. Therefore, for this particular dataset and task of sourcing cost prediction, the Random Forest Regression model is recommended as the most suitable choice.
 
