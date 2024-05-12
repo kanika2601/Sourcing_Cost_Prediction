@@ -23,7 +23,7 @@ The project includes various graphs and visualizations to analyze the data and m
 - 'Average Sourcing Cost by Product Type
 - Sunburst Graph of Area Code and Sourcing Channel
 
-
+<p align='center'><a href="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/output%20images/real_vs_generated.jpg?raw=true" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Text-to-2d-Floorplan-Generation-using-GANs/blob/main/output%20images/real_vs_generated.jpg?raw=true" height="300" /></a></p>
 
 ## Requirements 
 JupyterNotebook and anaconda enviroment
