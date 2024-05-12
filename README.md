@@ -23,7 +23,7 @@ The project includes various graphs and visualizations to analyze the data and m
 - 'Average Sourcing Cost by Product Type
 - Sunburst Graph of Area Code and Sourcing Channel
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+
 
 ## Requirements 
 JupyterNotebook and anaconda enviroment
